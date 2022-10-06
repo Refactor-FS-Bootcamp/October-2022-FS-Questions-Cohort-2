@@ -2,7 +2,7 @@
 
 - Clone (or pull) the repositary in your local pc.
 ```
-git clone https://github.com/Refactor-FS-Bootcamp/October-2022-FS-Questions-Cohort-1.git
+git clone https://github.com/Refactor-FS-Bootcamp/October-2022-FS-Questions-Cohort-2.git
 git pull
 ```
 
